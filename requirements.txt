@@ -169,7 +169,7 @@ websockets==12.0
 widgetsnbextension==4.0.10
 wrapt==1.16.0
 yarl==1.9.4
-zipp==3.17.0
+zipp==3.19.1
 zope.event==5.0
 zope.interface==6.1
 zope.schema==7.0.1
