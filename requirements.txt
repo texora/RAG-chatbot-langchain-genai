@@ -12,7 +12,7 @@ bcrypt==4.1.2
 blinker==1.7.0
 build==1.0.3
 cachetools==5.3.2
-certifi==2024.2.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 chroma-hnswlib==0.7.3
 chromadb==0.4.22
